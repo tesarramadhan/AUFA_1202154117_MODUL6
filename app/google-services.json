@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "70549262573",
+    "firebase_url": "https://aufa1202154117modul6.firebaseio.com",
+    "project_id": "aufa1202154117modul6",
+    "storage_bucket": "aufa1202154117modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70549262573:android:a70176004d72a1d8",
+        "android_client_info": {
+          "package_name": "com.tesarramadhan.aufa_1202154117_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70549262573-vuv20id4qp7lsetss2r9rv57t3denrrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tesarramadhan.aufa_1202154117_modul6",
+            "certificate_hash": "16f417baa38444a17dfd0dd6a9a429ccde12c556"
+          }
+        },
+        {
+          "client_id": "70549262573-qm56td2g3dqalivigf2flri7g0v4gajv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0SFUlmZbFLlxUyV9k5jUbgXczy4NOL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70549262573-qm56td2g3dqalivigf2flri7g0v4gajv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
